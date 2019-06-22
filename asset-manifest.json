@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.adf9e3cd.chunk.css",
+    "main.js": "/portfolio/static/js/main.864a51db.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.864a51db.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/css/2.1e871fd3.chunk.css": "/portfolio/static/css/2.1e871fd3.chunk.css",
+    "static/js/2.0893b43f.chunk.js": "/portfolio/static/js/2.0893b43f.chunk.js",
+    "static/js/2.0893b43f.chunk.js.map": "/portfolio/static/js/2.0893b43f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.7fbb4674ea4f1b84d9681e4536d691d6.js": "/portfolio/precache-manifest.7fbb4674ea4f1b84d9681e4536d691d6.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.1e871fd3.chunk.css.map": "/portfolio/static/css/2.1e871fd3.chunk.css.map",
+    "static/css/main.adf9e3cd.chunk.css.map": "/portfolio/static/css/main.adf9e3cd.chunk.css.map",
+    "static/media/Greg.jpg": "/portfolio/static/media/Greg.56145910.jpg",
+    "static/media/Footer.css": "/portfolio/static/media/forest-background.6a4c4eef.jpg",
+    "static/media/Info.css": "/portfolio/static/media/plane-background.6a7f63da.jpg",
+    "static/media/Hero.css": "/portfolio/static/media/sky-background.de9c9968.jpg",
+    "static/media/Header.css": "/portfolio/static/media/space-background.b3778cdd.jpg"
+  }
+}
